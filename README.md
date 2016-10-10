@@ -1,19 +1,17 @@
-# _{My Second Webpage}_
+# _My Second Webpage_
 
-#### _{This is my second webpage, it is about Oregon}, {10/10/2016}_
+#### _This is my second webpage, it is about Oregon, 10/10/2016_
 
-#### By _**{Ryan Back and Bryant Wang}**_
+#### By _**Ryan Back and Bryant Wang**_
 
 ## Description
 
-_{This is a webpage created in order to practice using basic HTML and GitHub.}_
+_This is a webpage created in order to practice using basic HTML and GitHub._
 
 ## Setup/Installation Requirements
 
 * Clone this repository.
 * Open index.html in a web browser.
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
@@ -29,6 +27,6 @@ _{Tell me about the languages and tools you used to create this app. Assume that
 
 ### License
 
-*{GPL}*
+*GPL*
 
-Copyright (c) 2016 **_{Ryan Back, Bryant Wang}_**
+Copyright (c) 2016 **_Ryan Back, Bryant Wang_**
